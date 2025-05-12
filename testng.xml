@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Administrator/IdeaProjects/TestClassProject/src/test/java/Ex_03_RA_testNG_AllureReport/APITesting_Lab06a.java"><classes><class name="Ex_03_RA_testNG_AllureReport.APITesting_Lab06a"><methods><include name="test_get_positive_TC1"/><include name="test_get_negative_TC2"/><include name="test_get_negative_TC3"/></methods></class></classes></test></suite>
